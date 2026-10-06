@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langgraph
+openai
+pinecone
+python-dotenv
+requests
+beautifulsoup4
